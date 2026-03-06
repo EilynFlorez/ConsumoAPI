@@ -1,0 +1,19 @@
+.episode {
+    width: 100%;
+    background: linear-gradient(
+        90deg, rgb(111, 144, 165), rgb(38, 137, 198)
+    );
+    border-radius: 15px;
+    padding: 2rem;
+}
+
+p {
+    font-size: 1rem;
+    color: rgb(9, 65, 101);
+    font-weight: 500;
+}
+
+span {
+    font-weight: 700;
+    color: rgb(0, 41, 67);
+}
